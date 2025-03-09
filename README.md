@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sir-mammut&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-mammut&layout=compact" />
 </div>
