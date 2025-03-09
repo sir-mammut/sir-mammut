@@ -26,3 +26,8 @@ Here are some ideas to get you started:
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sir-mammut&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-mammut&layout=compact" />
 </div>
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
