@@ -1,6 +1,4 @@
-# Hi there, I'm Muh'd Hamisu 👋
-
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Salaam+I'm+Ab+Mosawer+Wadan..;Muh'd+Hamisu+Student;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=Hi+there!;I+am+Hamisu+Muhd+by+name!;I+am+Full-Stack+Software+Engineer!)](https://git.io/typing-svg)
 
 
 <!--
