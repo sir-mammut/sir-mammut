@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=500&lines=Hi+there!;I+am+Hamisu+Muhd+by+name!;I+am+Full-Stack+Software+Engineer!)](https://git.io/typing-svg)
 
+---
+
 
 <!--
 #dafbe1
