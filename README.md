@@ -2,6 +2,7 @@
 
 ---
 
+![snake gif](https://github.com/sir-mammut/sir-mammut/blob/output/github-snake-dark.svg)
 
 <!--
 #dafbe1
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sir-mammut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
