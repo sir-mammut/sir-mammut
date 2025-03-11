@@ -1,24 +1,36 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=25&duration=3000&pause=1000&width=500&lines=Hi+there!;I+am+Hamisu+Muhd+by+name!;I+am+Full-Stack+Software+Engineer!)](https://git.io/typing-svg)
 
 ---
 
-![snake gif](https://github.com/sir-mammut/sir-mammut/blob/output/github-snake-dark.svg)
+## 🌐 Socials:
 
-<!--
-#dafbe1
-**sir-mammut/sir-mammut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aritrasamantaofficial)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/captainaritra)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/captainaritra)
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+<h2 align="left">Programming Languages I Use</h2>
+<div align="left">
+
+  ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css&theme=dark)
+  
+</div>
+
+---
+
+###
+
+<h2 align="left">Framworks</h2>
+
+<div align="left">
+
+  ![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,bootstrap,tailwind&theme=dark)
+  
+</div>
 
 ---
 
