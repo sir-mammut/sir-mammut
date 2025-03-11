@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&width=500&lines=Hi+there!;I+am+Hamisu+Muhd+by+name!;I+am+Full-Stack+Software+Engineer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=25&duration=3000&pause=1000&width=500&lines=Hi+there!;I+am+Hamisu+Muhd+by+name!;I+am+Full-Stack+Software+Engineer!)](https://git.io/typing-svg)
 
 ---
 
@@ -25,6 +25,24 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=sir-mammut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="18px"> My Stats :
+<table>
+  <tr>
+    <td >
+      <img src="https://github-profile-trophy.vercel.app/?username=sir-mammut&theme=onedark&row=2&column=4" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-mammut&layout=compact&langs_count=5&card_width=500&theme=dracula" />
+    </td>
+  </tr>
+  <tr>
+    <td><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sir-mammut&theme=react&border_radius=10" alt="streak stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=sir-mammut&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
+  </tr>
+</table>
 
 ---
 
