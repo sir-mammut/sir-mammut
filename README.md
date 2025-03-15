@@ -5,9 +5,9 @@
 
 ## 🌐 Socials:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/aritrasamantaofficial)
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/captainaritra)
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/captainaritra)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/muhd)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://x.com/muhd)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/muhd)
 
 ###
 
