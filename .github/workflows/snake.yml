@@ -18,13 +18,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           # Customize your snake (optional):
-          color: "#f75c7e"        # Hex color code
+          # color: "#f75c7e"        # Hex color code
           # output: dist/snake.svg  # Output path
           # density: high           # Commit density (low/medium/high)
 
       - name: Commit and push
         run: |
-          git config --local user.name "github-actions"
+          git config --local user.name "sir-mammut"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "Update snake contribution graph"
