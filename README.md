@@ -27,6 +27,12 @@
 
 <br/>
 
+---
+
+![snake](https://github.com/sir-mammut/sir-mammut/blob/output/github-contribution-grid-snake2.svg)
+
+
+
 <h2 align="left">Technologies:</h2>
 <div align="left">
 
