@@ -60,7 +60,7 @@
     
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" aligh="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-mammut&layout=compact&langs_count=5&card_width=500&theme=dracula" />
     </td>
   </tr>
