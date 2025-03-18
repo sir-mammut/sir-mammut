@@ -1,0 +1,31 @@
+name: Generate Snake Contribution
+
+on:
+  schedule:
+    # Runs daily to update the snake
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Customize your snake (optional):
+          color: "#f75c7e"        # Hex color code
+          # output: dist/snake.svg  # Output path
+          # density: high           # Commit density (low/medium/high)
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake contribution graph"
+          git push
