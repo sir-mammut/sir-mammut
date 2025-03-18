@@ -27,7 +27,6 @@
 
 <br/>
 
-
 <h2 align="left">Technologies:</h2>
 <div align="left">
 
@@ -53,7 +52,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
