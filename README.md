@@ -31,7 +31,7 @@
 
 <!-- ![snake](https://github.com/sir-mammut/sir-mammut/blob/output/github-contribution-grid-snake2.svg) -->
 
-![Snake animation](https://raw.githubusercontent.com/sir-mammut/sir-mammut/main/dist/github-snake.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/sir-mammut/sir-mammut/main/dist/github-snake.svg)-->
 
 
 <picture>
