@@ -1,10 +1,13 @@
 [<img src="https://github.com/user-attachments/assets/7a662c96-e64d-4f6e-8522-4547c1e9c98d" alt="Banner"/>](https://hamisu.dev)
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&width=435&lines=Full-Stack+Web+and+App+developer;Experienced+UI%2FUX+Designer;7%2B+Years+of+Coding+Experience;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<!-- Social icons section -->
+ Social icons section 
+ 
+ -->
 <p align="center">
   <a href="https://www.youtube.com/c/mammut"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
