@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/sir-mammut">
-    <img src="dist/m-hamisu.png" alt="Jonah Lawrence" />
-  </a>
-</p>
+[<img src="https://github.com/user-attachments/assets/7a662c96-e64d-4f6e-8522-4547c1e9c98d" alt="Banner"/>](https://hamisu.dev)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&width=435&lines=Full-Stack+Web+and+App+developer;Experienced+UI%2FUX+Designer;7%2B+Years+of+Coding+Experience;Always+learning+new+things" alt="Typing SVG" />
