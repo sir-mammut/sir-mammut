@@ -1,4 +1,4 @@
-[<img src="https://github.com/user-attachments/assets/7a662c96-e64d-4f6e-8522-4547c1e9c98d" alt="Banner"/>](https://hamisu.dev)
+[<img src="https://github.com/user-attachments/assets/19f1dd42-2eb0-4b52-9462-6cb4cc2d0825" alt="Banner"/>](https://hamisu.dev)
 
 <h2 align="center">
   
