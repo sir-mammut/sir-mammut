@@ -1,22 +1,51 @@
 [<img src="https://github.com/user-attachments/assets/19f1dd42-2eb0-4b52-9462-6cb4cc2d0825" alt="Banner"/>](https://hamisu.dev)
 
-<h2 align="center">
-  
-<img src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src ="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white">
-<img src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
-<img src ="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
-<img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src ="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-<img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src ="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-<img src ="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white">
-<img src ="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white">
+<p align="center">
+  <img width="600" src="https://img.shields.io/badge/DevOps-30%20Day%20Apprenticeship-blue?style=flat-square" alt="DevOps Apprenticeship Badge" />
+</p>
 
-</h2>
+## ​ Hi, I’m **Muh'd Hamisu** (sir-mammut) - DevOps Apprentice in Public
+
+> *"Not only the fox, the snail also reaches its destination"* — I'm on a deliberate, disciplined journey to level up.
+
+I’m a **Senior Full-Stack Engineer** with a passion for shipping reliable software. Now, I’m building modern DevOps muscle through a **public 30-day apprenticeship** that covers:
+- Containerization (Docker, BuildKit)
+- CI/CD pipelines (GitHub Actions, SBOM, image signing)
+- Infrastructure as Code (Terraform, AWS)
+- Kubernetes & GitOps (Argo CD, Helm)
+- Observability (OpenTelemetry, Prometheus, Grafana)
+- Security & Resilience (Kyverno, SBOM, chaos testing)
+
+---
+
+###  Featured Project: 30-Day DevOps Apprenticeship
+This is my focused, daily journey into DevOps — documented with code, logs, automations, and reflections.  
+[👉 Explore the Project Here](https://github.com/sir-mammut/devops-apprenticeship)
+
+---
+
+###  Technical Skills
+| Category       | Tools & Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------------- |
+| **Languages**     | Python, C++, JavaScript (Node.js), Bash, YAML                                     |
+| **CI / CD**       | GitHub Actions, Make, BuildKit, Docker                                            |
+| **Infra as Code** | Terraform (AWS), Helm, GitOps (Argo CD)                                           |
+| **Containers**    | Docker, Buildx, multi-stage builds, container hardening (non-root builds)         |
+| **Observability** | OpenTelemetry, Prometheus, Grafana, Loki                                          |
+| **Security**      | SBOMs, Cosign signing, Kyverno / OPA, SSH, secrets management                     |
+| **Resilience**    | HPA, Liveness/Readiness probes, chaos experiments, postmortems                    |
+
+---
+
+###  Let’s Connect
+- Email: **(`muhd@hamisu.dev`)**  
+- LinkedIn: **[Linkedin](www.linkedin.com/in/muhd-hamisu)**  
+- Open to DevOps, Cloud Engineering, and Infrastructure roles globally
+
+---
+
+>  **Final Thought**  
+This profile is more than code; it’s a **daily exhibited learning process**—a real marker of adaptability, skill, and consistency. Excited to see where it leads.
 
 <table>
   <tr>
